@@ -7,5 +7,6 @@ Tytuł projektu: Siłownia/system zarządzający siłownią
 
  
 
-System zarządzający siłownią ma polegać na sprawdzaniu ważności karnetu, zarządzanie stanem maszyn, zatrudnieniem personelu (personelu utrzymującego czystość, trenerów i kadry), system zapisu treningów indywidualnych i grupowych, obsługa klienta.  
+System zarządzający siłownią ma polegać na sprawdzaniu ważności karnetu, zarządzanie stanem maszyn, zatrudnieniem personelu (personelu utrzymującego czystość, 
+trenerów i kadry), system zapisu treningów indywidualnych i grupowych, obsługa klienta.  
  

@@ -1,1 +1,1 @@
-id_trenera;imie;nazwisko
+id_trenera;imie;nazwisko;telefon

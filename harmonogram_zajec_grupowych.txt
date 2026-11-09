@@ -1,21 +1,21 @@
-id_zajec;dzien;godzina;nazwa_zajec;prowadzacy;czas_trwania;ilosc_miejsc;ilosc_osob_zapisanych
-1;poniedziałek;07:00;Spinning;1;45;20;18
-2;poniedziałek;09:00;Pilates;2;60;12;12
-3;poniedziałek;17:30;Zumba;6;60;25;22
-4;poniedziałek;19:00;TRX;3;45;12;9
-5;wtorek;07:00;Joga;4;60;15;11
-6;wtorek;18:00;CrossFit;5;60;14;14
-7;wtorek;19:15;Stretching;8;45;15;7
-8;środa;08:00;Aerobik;10;45;20;13
-9;środa;17:30;Body Pump;9;60;20;19
-10;środa;19:00;Tabata;12;45;18;15
-11;czwartek;07:00;Spinning;1;45;20;16
-12;czwartek;18:00;Pilates;2;60;12;10
-13;czwartek;19:15;Kettlebell;3;45;12;12
-14;piątek;09:00;Joga;4;60;15;8
-15;piątek;17:00;Zumba;6;60;25;24
-16;piątek;18:15;Boks fitness;16;45;16;14
-17;sobota;10:00;CrossFit;5;60;14;12
-18;sobota;11:15;Zdrowy kręgosłup;18;45;15;9
-19;sobota;12:30;Stretching;8;45;15;6
-20;niedziela;10:00;Joga;20;60;15;10
+id_zajec;data;godzina;nazwa_zajec;prowadzonacy;czas_trwania;ilosc_miejsc;ilosc_osob_zapisanych
+1;2026-11-09;07:00;Spinning;1;45;20;18
+2;2026-11-09;09:00;Pilates;2;60;12;12
+3;2026-11-09;17:30;Zumba;6;60;25;22
+4;2026-11-09;19:00;TRX;3;45;12;9
+5;2026-11-10;07:00;Joga;4;60;15;11
+6;2026-11-10;18:00;CrossFit;5;60;14;14
+7;2026-11-10;19:15;Stretching;8;45;15;7
+8;2026-11-11;08:00;Aerobik;10;45;20;13
+9;2026-11-11;17:30;Body Pump;9;60;20;19
+10;2026-11-11;19:00;Tabata;12;45;18;15
+11;2026-11-12;07:00;Spinning;1;45;20;16
+12;2026-11-12;18:00;Pilates;2;60;12;10
+13;2026-11-12;19:15;Kettlebell;3;45;12;12
+14;2026-11-13;09:00;Joga;4;60;15;8
+15;2026-11-13;17:00;Zumba;6;60;25;24
+16;2026-11-13;18:15;Boks fitness;16;45;16;14
+17;2026-11-14;10:00;CrossFit;5;60;14;12
+18;2026-11-14;11:15;Zdrowy kręgosłup;18;45;15;9
+19;2026-11-14;12:30;Stretching;8;45;15;6
+20;2026-11-15;10:00;Joga;20;60;15;1

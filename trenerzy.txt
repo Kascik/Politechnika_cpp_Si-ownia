@@ -1,1 +1,1 @@
-id;imie;nazwisko
+id_trenera;imie;nazwisko

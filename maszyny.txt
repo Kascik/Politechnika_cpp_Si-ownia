@@ -1,1 +1,1 @@
-id;name;last_check
+id_maszyny;name;last_check

@@ -1,1 +1,1 @@
-
+id_karnetu;nazwa;czas_trwania;cena

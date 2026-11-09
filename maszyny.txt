@@ -1,1 +1,151 @@
-id_maszyny;name;last_check
+id_maszyny;nazwa;ostatni_serwis;czy_sprawna
+1;Bieżnia elektryczna;2026-01-15;TAK
+2;Bieżnia elektryczna;2026-03-20;TAK
+3;Bieżnia elektryczna;2026-02-10;NIE
+4;Rower stacjonarny;2026-02-12;TAK
+5;Rower stacjonarny;2026-03-18;TAK
+6;Rower spinningowy;2026-04-12;TAK
+7;Rower spinningowy;2026-01-22;TAK
+8;Orbitrek;2026-02-18;TAK
+9;Orbitrek;2026-03-11;TAK
+10;Wioślarz treningowy;2026-03-01;TAK
+11;Wioślarz treningowy;2026-02-14;TAK
+12;Stepper;2026-01-08;TAK
+13;Stepper;2026-04-05;TAK
+14;Schody treningowe;2026-03-17;TAK
+15;Schody treningowe;2026-01-19;TAK
+16;Bieżnia mechaniczna;2026-04-10;TAK
+17;Bieżnia mechaniczna;2026-02-08;TAK
+18;Rower powietrzny;2026-03-11;TAK
+19;Rower powietrzny;2025-10-20;NIE
+20;Ergometr narciarski;2026-01-27;TAK
+21;Ergometr narciarski;2026-03-22;TAK
+22;Suwnica Smitha;2026-02-03;TAK
+23;Suwnica Smitha;2026-04-01;TAK
+24;Suwnica na nogi;2026-03-15;TAK
+25;Suwnica na nogi;2026-01-12;TAK
+26;Wyciąg górny;2025-12-18;NIE
+27;Wyciąg górny;2026-02-21;TAK
+28;Wyciąg dolny;2026-01-30;TAK
+29;Wyciąg dolny;2026-03-09;TAK
+30;Maszyna do prostowania nóg;2026-02-16;TAK
+31;Maszyna do prostowania nóg;2025-11-14;NIE
+32;Maszyna do uginania nóg;2026-04-03;TAK
+33;Maszyna do uginania nóg;2026-01-25;TAK
+34;Maszyna do przywodzenia nóg;2026-03-07;TAK
+35;Maszyna do przywodzenia nóg;2026-02-11;TAK
+36;Maszyna do odwodzenia nóg;2026-01-17;TAK
+37;Maszyna do odwodzenia nóg;2025-12-03;NIE
+38;Maszyna do wyciskania na klatkę;2026-03-28;TAK
+39;Maszyna do wyciskania na klatkę;2026-02-06;TAK
+40;Maszyna do rozpiętek;2026-01-13;TAK
+41;Maszyna do rozpiętek;2026-04-08;TAK
+42;Maszyna do ćwiczenia barków;2026-02-19;TAK
+43;Maszyna do ćwiczenia barków;2025-11-25;NIE
+44;Maszyna do ćwiczenia brzucha;2026-03-13;TAK
+45;Maszyna do ćwiczenia brzucha;2026-01-21;TAK
+46;Maszyna do podciągania z przeciwwagą;2026-04-06;TAK
+47;Maszyna do podciągania z przeciwwagą;2026-02-09;TAK
+48;Maszyna do wiosłowania siedząc;2026-03-19;TAK
+49;Maszyna do wiosłowania siedząc;2025-12-16;NIE
+50;Maszyna do wspięć na palce;2026-01-24;TAK
+51;Maszyna do wspięć na palce;2026-03-04;TAK
+52;Maszyna do ćwiczenia bicepsów;2026-02-13;TAK
+53;Maszyna do ćwiczenia bicepsów;2026-04-02;TAK
+54;Maszyna do ćwiczenia tricepsów;2026-03-26;TAK
+55;Maszyna do ćwiczenia tricepsów;2025-10-15;NIE
+56;Maszyna do ćwiczenia pośladków;2026-01-11;TAK
+57;Maszyna do ćwiczenia pośladków;2026-02-28;TAK
+58;Maszyna do prostowania pleców;2026-03-06;TAK
+59;Maszyna do prostowania pleców;2026-01-16;TAK
+60;Maszyna do wyciskania na barki;2026-02-22;TAK
+61;Maszyna do wyciskania na barki;2025-12-09;NIE
+62;Maszyna do ćwiczenia klatki piersiowej;2026-03-12;TAK
+63;Maszyna do ćwiczenia klatki piersiowej;2026-01-29;TAK
+64;Maszyna do ćwiczenia łydek;2026-04-04;TAK
+65;Maszyna do ćwiczenia łydek;2026-02-17;TAK
+66;Maszyna do treningu funkcjonalnego;2026-03-18;TAK
+67;Maszyna do treningu funkcjonalnego;2025-11-19;NIE
+68;Bramka treningowa;2026-01-14;TAK
+69;Bramka treningowa;2026-03-25;TAK
+70;Klatka treningowa;2026-02-07;TAK
+71;Klatka treningowa;2026-04-09;TAK
+72;Ławka pozioma;2026-03-10;TAK
+73;Ławka pozioma;2025-12-21;NIE
+74;Ławka skośna;2026-01-26;TAK
+75;Ławka skośna;2026-02-24;TAK
+76;Ławka regulowana;2026-03-05;TAK
+77;Ławka regulowana;2026-01-18;TAK
+78;Ławka rzymska;2026-02-12;TAK
+79;Ławka rzymska;2025-11-28;NIE
+80;Stojak pod sztangę;2026-04-07;TAK
+81;Stojak pod sztangę;2026-03-02;TAK
+82;Stojak na hantle;2026-01-23;TAK
+83;Stojak na hantle;2026-02-20;TAK
+84;Sztanga olimpijska;2026-03-14;TAK
+85;Sztanga olimpijska;2025-12-07;NIE
+86;Sztanga łamana;2026-01-31;TAK
+87;Sztanga łamana;2026-04-11;TAK
+88;Hantle regulowane;2026-02-15;TAK
+89;Hantle regulowane;2026-03-23;TAK
+90;Zestaw hantli;2026-01-09;TAK
+91;Zestaw hantli;2025-11-16;NIE
+92;Kettlebell;2026-03-16;TAK
+93;Kettlebell;2026-02-04;TAK
+94;Obciążenie olimpijskie;2026-04-12;TAK
+95;Obciążenie olimpijskie;2026-01-20;TAK
+96;Gryf prosty;2026-02-18;TAK
+97;Gryf prosty;2026-03-12;TAK
+98;Gryf łamany;2026-01-15;TAK
+99;Gryf łamany;2026-04-05;TAK
+100;Worek bokserski;2026-02-10;TAK
+101;Worek bokserski;2025-12-14;NIE
+102;Gruszka bokserska;2026-03-21;TAK
+103;Gruszka bokserska;2026-01-17;TAK
+104;Drabinka gimnastyczna;2026-02-25;TAK
+105;Drabinka gimnastyczna;2026-04-08;TAK
+106;Poręcze do dipów;2026-03-07;TAK
+107;Poręcze do dipów;2026-01-22;TAK
+108;Drążek do podciągania;2026-02-14;TAK
+109;Drążek do podciągania;2025-11-30;NIE
+110;TRX;2026-03-19;TAK
+111;TRX;2026-01-28;TAK
+112;Piłka lekarska;2026-02-08;TAK
+113;Piłka lekarska;2026-04-02;TAK
+114;Piłka gimnastyczna;2026-03-15;TAK
+115;Piłka gimnastyczna;2026-01-11;TAK
+116;Step fitness;2026-02-19;TAK
+117;Step fitness;2025-12-20;NIE
+118;Mata treningowa;2026-03-26;TAK
+119;Mata treningowa;2026-01-19;TAK
+120;Platforma wibracyjna;2026-02-27;TAK
+121;Platforma wibracyjna;2026-04-10;TAK
+122;Rower poziomy;2026-01-13;TAK
+123;Rower poziomy;2026-03-08;TAK
+124;Maszyna do treningu rotacyjnego;2026-02-16;TAK
+125;Maszyna do treningu rotacyjnego;2025-11-22;NIE
+126;Maszyna do unoszenia kolan;2026-03-04;TAK
+127;Maszyna do unoszenia kolan;2026-01-26;TAK
+128;Maszyna do odwodzenia ramion;2026-02-21;TAK
+129;Maszyna do odwodzenia ramion;2026-04-06;TAK
+130;Maszyna do wyciskania nóg siedząc;2026-03-13;TAK
+131;Maszyna do wyciskania nóg siedząc;2025-12-11;NIE
+132;Maszyna do ćwiczenia mięśni przykręgosłupowych;2026-01-18;TAK
+133;Maszyna do ćwiczenia mięśni przykręgosłupowych;2026-03-27;TAK
+134;Maszyna do treningu klatki piersiowej siedząc;2026-02-05;TAK
+135;Maszyna do treningu klatki piersiowej siedząc;2026-04-09;TAK
+136;Maszyna do treningu mięśni brzucha siedząc;2026-03-17;TAK
+137;Maszyna do treningu mięśni brzucha siedząc;2026-01-25;TAK
+138;Maszyna do ćwiczenia mięśni skośnych brzucha;2026-02-11;TAK
+139;Maszyna do ćwiczenia mięśni skośnych brzucha;2025-12-16;NIE
+140;Maszyna do wyciskania na klatkę siedząc;2026-03-22;TAK
+141;Maszyna do wyciskania na klatkę siedząc;2026-01-14;TAK
+142;Maszyna do przyciągania drążka;2026-02-23;TAK
+143;Maszyna do przyciągania drążka;2026-04-04;TAK
+144;Maszyna do treningu przedramion;2026-03-09;TAK
+145;Maszyna do treningu przedramion;2025-11-17;NIE
+146;Maszyna do treningu szyi;2026-01-29;TAK
+147;Maszyna do treningu szyi;2026-03-16;TAK
+148;Maszyna do wspomaganego dipowania;2026-02-20;TAK
+149;Maszyna do wspomaganego dipowania;2026-04-01;TAK
+150;Maszyna do treningu całego ciała;2026-03-05;TAK

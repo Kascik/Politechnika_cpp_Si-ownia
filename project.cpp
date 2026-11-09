@@ -1,7 +1,6 @@
 //
 // Created by tomas on 8.11.2026.
 //
-
 #include <iostream>
 
 using namespace std;
@@ -12,8 +11,22 @@ int main() {
         int id;
         string name;
         string surname;
-        string adress;
-        string email;
+        string date_of_experience;
+        string type;
+        string pesel;
+    };
+    class Trainer {
+        public:
+        int id;
+        string name;
+        string surname;
         string tel_number;
+    };
+    class Employee {
+        public:
+        int id;
+        string name;
+        string surname;
+        string position;
     };
 }

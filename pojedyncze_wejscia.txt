@@ -1,0 +1,1 @@
+id_wejscia;id_klienta;data;pozostala_ilosc_wejsc

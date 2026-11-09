@@ -1,1 +1,11 @@
 id_pracownika;imie;nazwisko;stanowisko
+1;Henryk;Cieślak;Kierownik siłowni
+2;Elżbieta;Borkowska;Księgowa
+3;Renata;Kubiak;Recepcjonistka
+4;Daniel;Czarnecki;Recepcjonista
+5;Szymon;Mroczek;Fizjoterapeuta
+6;Barbara;Sokołowska;Dietetyczka
+7;Zbigniew;Laskowski;Konserwator
+8;Halina;Sadowska;Sprzątaczka
+9;Artur;Kaczor;Pracownik ochrony
+10;Leszek;Kalinowski;Sprzedawca suplementów

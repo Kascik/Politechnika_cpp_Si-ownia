@@ -1,1 +1,1 @@
-id;imie;nazwisko;stanowisko
+id_pracownika;imie;nazwisko;stanowisko

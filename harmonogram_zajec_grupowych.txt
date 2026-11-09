@@ -1,1 +1,1 @@
-id;dzien;godzina;nazwa_zajec;prowadzoncy;czas_trwania;ilosc_miejsc;ilosc_osob_zapisanych
+id_zajec;dzien;godzina;nazwa_zajec;prowadzonacy;czas_trwania;ilosc_miejsc;ilosc_osob_zapisanych

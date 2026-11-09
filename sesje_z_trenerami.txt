@@ -1,0 +1,1 @@
+id_sesji;id_trenera;id_klienta;data;czas_trwania;opis

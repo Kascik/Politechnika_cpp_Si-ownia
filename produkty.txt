@@ -1,0 +1,1 @@
+id_produktu;nazwa;stan_magazynowy

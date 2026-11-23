@@ -1,0 +1,9 @@
+Projekt realizowany przez: 
+Tomasz Budzik 
+Radosław Mroczek 
+Mateusz Baścik 
+ 
+Tytuł projektu: Sklep z suplementami diety
+
+System, który pozwala kierownikowi na zarządzenie produktami, pracownikami i klientami w sklepie z suplementami diety
+
